@@ -15,11 +15,10 @@ BIOS Settings : 
 
 
 # N. Log
-- 1.获取系统报告 [Hardware-Sniffer](https://github.com/lzhoang2801/Hardware-Sniffer)
-- 2.制作EFI文件 [OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify)
-- 3.EFI修改更新 [OCAT](https://github.com/ic005k/OCAuxiliaryTools)
-- 3.制作系统U盘 [macOS 安装器](https://support.apple.com/zh-cn/101578) [balenaEtcher镜像工具](https://etcher.balena.io/)
-- 4.Wi-Fi驱动补丁 [OCLP-Mod](https://github.com/laobamac/OCLP-Mod)
-- 5.检查系统状态 [Hackintosh](https://github.com/benbaker76/Hackintool)
 
-
+- 1. Obtain system report [Hardware-Sniffer](https://github.com/lzhoang2801/Hardware-Sniffer)
+- 2. Create EFI file [OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify)
+- 3. Modify and update EFI [OCAT](https://github.com/ic005k/OCAuxiliaryTools)
+- 3. Create system USB drive [macOS Installer](https://support.apple.com/zh-cn/101578) [balenaEtcher imaging tool](https://etcher.balena.io/)
+- 4. Wi-Fi driver patch [OCLP-Mod](https://github.com/laobamac/OCLP-Mod)
+- 5. Check system status [Hackintosh](https://github.com/benbaker76/Hackintool)
