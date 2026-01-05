@@ -1,4 +1,4 @@
-# HP-ProDesk-600-G6-Small-Form-Factor-Hackintosh
+# HP-ProDesk-600-G6-SFF-Hackintosh
 # System configuration
 |Model  |iMac20,1  |Version	|macOS Sequoia 15.73|
 | :----- | :----- |:----- |:----- |
